@@ -1,12 +1,12 @@
 
 import styles from './Header.module.css'
 
-function Header (){
+ function Header (){
 
 return(
            <header className={styles.header}>
     
-            <Strong>introdução </Strong>
+            <strong>introdução </strong>
     
            </header>
 
